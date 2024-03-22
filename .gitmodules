@@ -1,0 +1,3 @@
+[submodule "fonasa-frontend"]
+	path = fonasa-frontend
+	url = https://github.com/PrintCamilo/fonasa-appv2
